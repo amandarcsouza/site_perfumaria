@@ -1,0 +1,68 @@
+html{
+    overflow-x: hidden;
+}
+
+body{
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+}
+
+#sobre-a-perfumaria,
+#produtos{
+    background-color: #d0fff0;
+}
+
+.text-colored{
+    color: #00a470;
+}
+
+section{
+    scroll-margin-top: 96px;
+}
+
+.section-title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar{
+    background-color: #00a470;
+}
+
+.navbar-brand{
+    font-family: Estonia, cursive;
+    font-size: 40px;
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: #fff;
+    color: #00a470;
+}
+
+#menu-navegacao .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-produtos .nav-link.active:hover{
+    color: #fff;
+}
+
+.navbar-toggler{
+    background-color: #d0fff0;
+}
+
+.nav-produtos .nav-link.active,
+#fale-conosco button{
+    background-color: #00a470;
+    color: #fff;
+}
+
+.nav-produtos .nav-link:hover{
+    color: #00a470;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
